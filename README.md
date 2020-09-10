@@ -2,7 +2,12 @@
 #### Présentation
 | Développeur Web Junior | ![Ma photo](https://media.licdn.com/dms/image/C4D03AQF4eVz8aulbcQ/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=FRbW7IxVqo0_3P79gdQ5esecG4JDrGaCErdTGJp6ojk) | Spécialisation PHP - Synfony |
 | ------ | :------: | ------: |
-| En formation à la **[Wild Code School de Lille](https://www.wildcodeschool.com/fr-BE/campus/lille)** | Lille ou Dunkerque | J'offre mes services de développeur lors d'un stage de mars à juin 2020. |
+| En formation à la **[Wild Code School de Lille](https://www.wildcodeschool.com/fr-BE/campus/lille)** | Lille ou Dunkerque | J'offre mes services de développeur. |
+
+#### Compétences / skills
+* Bonne maîtrise de PHP, Symfony 4 & 5, MySQL, CSS, SCSS, HTML
+* Utilisation de ANGULAR (JS)
+* Adaptable, prêt à découvrir ou mettre à jour un langage ou Framework
 
 #### Formation
 * _Parcours général et Baccalauréat série C_ en 1994 à **Beaucamps-Ligny**
