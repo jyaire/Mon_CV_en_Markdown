@@ -1,8 +1,8 @@
 ## Jean-Roch Masson
 #### Présentation
-| Professeur des écoles ET Développeur Web | ![Ma photo](https://media-exp1.licdn.com/dms/image/C4E03AQF9BNim3Ub1GA/profile-displayphoto-shrink_200_200/0?e=1605139200&v=beta&t=dxDjPBHzSC___zpM-Lishj8088ur6rGddReY4_wn1lw) | Spécialisation PHP - Symfony |
+| Professeur des écoles ET Développeur Web | ![Ma photo](https://github.com/jyaire/Mon_CV_en_Markdown/blob/master/jrgh.jpg?raw=true) | Spécialisation PHP - Symfony |
 | ------ | :------: | ------: |
-| Formation à la **[Wild Code School de Lille](https://www.wildcodeschool.com/fr-BE/campus/lille)** | Lille ou Dunkerque | J'offre mes services de développeur. |
+| Formation à la **[Wild Code School de Lille](https://www.wildcodeschool.com/fr-BE/campus/lille)** | Dunkerque | J'offre mes services de développeur. |
 
 #### Compétences / skills
 * Bonne maîtrise de PHP, Symfony 4 & 5, MySQL, CSS, SCSS, HTML
